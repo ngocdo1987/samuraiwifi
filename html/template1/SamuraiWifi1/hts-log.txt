@@ -1,0 +1,264 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 11 Mar 2018 09:25:41 at http://ninzio.com/craft/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ninzio.com/craft/ -O1 "F:\xampp\htdocs\samuraiwifi\html\template1\SamuraiWifi1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:28:02	Error: 	"Method Not Allowed" (405) at link ninzio.com/craft/xmlrpc.php (from ninzio.com/craft/)
+09:36:13	Warning: 	File not parsed, looks like binary: ninzio.com/craft/wp-content/plugins/revslider/public/assets/css/openhand.cur
+09:36:13	Warning: 	File not parsed, looks like binary: ninzio.com/craft/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+09:36:13	Warning: 	File not parsed, looks like binary: ninzio.com/craft/wp-content/themes/thecraft/assets/font/fontawesome-webfont.woff2?v=4.7.0
+09:36:13	Error: 	"Not Found" (404) at link ninzio.com/craft/wp-content/plugins/WPRT_VC_Addons/assets/owl.video.play.png (from ninzio.com/craft/wp-content/plugins/WPRT_VC_Addons/assets/owl.carousel.css?ver=2.2.1)
+09:36:13	Error: 	"Not Found" (404) at link ninzio.com/craft/wp-content/plugins/WPRT_VC_Addons/img/cbp-sprite.png (from ninzio.com/craft/wp-content/plugins/WPRT_VC_Addons/assets/cubeportfolio.min.css?ver=3.4.0)
+09:36:13	Error: 	"Not Found" (404) at link ninzio.com/craft/wp-content/plugins/WPRT_VC_Addons/assets/font/ytp-regular.eot (from ninzio.com/craft/wp-content/plugins/WPRT_VC_Addons/assets/ytplayer.css?ver=3.0.2)
+09:36:13	Warning: 	Moved Permanently for ninzio.com/craft/?p=1416
+09:36:13	Warning: 	File has moved from ninzio.com/craft/?p=1416 to http://ninzio.com/craft/cart/
+09:37:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=365
+09:37:02	Warning: 	File has moved from ninzio.com/craft/?p=365 to http://ninzio.com/craft/home-3/
+09:37:03	Warning: 	Moved Permanently for ninzio.com/craft/?p=1385
+09:37:03	Warning: 	File has moved from ninzio.com/craft/?p=1385 to http://ninzio.com/craft/home-2/
+09:37:07	Warning: 	Moved Permanently for ninzio.com/craft/?p=1491
+09:37:07	Warning: 	File has moved from ninzio.com/craft/?p=1491 to http://ninzio.com/craft/home-4/
+09:37:07	Warning: 	Moved Permanently for ninzio.com/craft/?p=1517
+09:37:07	Warning: 	File has moved from ninzio.com/craft/?p=1517 to http://ninzio.com/craft/home-5/
+09:37:07	Warning: 	Moved Permanently for ninzio.com/craft/?p=1530
+09:37:07	Warning: 	File has moved from ninzio.com/craft/?p=1530 to http://ninzio.com/craft/home-6/
+09:37:08	Warning: 	Moved Permanently for ninzio.com/craft/?p=55
+09:37:08	Warning: 	File has moved from ninzio.com/craft/?p=55 to http://ninzio.com/craft/header-1/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=57
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=57 to http://ninzio.com/craft/header-2/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=59
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=59 to http://ninzio.com/craft/header-3/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=61
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=61 to http://ninzio.com/craft/header-4/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=2368
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=2368 to http://ninzio.com/craft/header-5/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=2370
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=2370 to http://ninzio.com/craft/header-6/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=2372
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=2372 to http://ninzio.com/craft/header-7/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=1316
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=1316 to http://ninzio.com/craft/about-us/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=1326
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=1326 to http://ninzio.com/craft/services/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=1339
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=1339 to http://ninzio.com/craft/contact-us/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=1335
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=1335 to http://ninzio.com/craft/pricing/
+09:37:09	Warning: 	Moved Permanently for ninzio.com/craft/?p=2285
+09:37:09	Warning: 	File has moved from ninzio.com/craft/?p=2285 to http://ninzio.com/craft/portfolio-standard/
+09:37:21	Warning: 	Moved Permanently for ninzio.com/craft/?p=2288
+09:37:21	Warning: 	File has moved from ninzio.com/craft/?p=2288 to http://ninzio.com/craft/portfolio-simple/
+09:37:22	Warning: 	Moved Permanently for ninzio.com/craft/?p=2269
+09:37:22	Warning: 	File has moved from ninzio.com/craft/?p=2269 to http://ninzio.com/craft/portfolio-grid/
+09:37:22	Warning: 	Moved Permanently for ninzio.com/craft/?p=1906
+09:37:22	Warning: 	File has moved from ninzio.com/craft/?p=1906 to http://ninzio.com/craft/project/website-creation/
+09:37:23	Warning: 	Moved Permanently for ninzio.com/craft/?p=1903
+09:37:23	Warning: 	File has moved from ninzio.com/craft/?p=1903 to http://ninzio.com/craft/project/mountain-woman-3/
+09:37:47	Warning: 	Moved Permanently for ninzio.com/craft/?p=2383
+09:37:47	Warning: 	File has moved from ninzio.com/craft/?p=2383 to http://ninzio.com/craft/blog-grid/
+09:37:51	Warning: 	Moved Permanently for ninzio.com/craft/?p=2388
+09:37:51	Warning: 	File has moved from ninzio.com/craft/?p=2388 to http://ninzio.com/craft/blog-list/
+09:37:51	Warning: 	Moved Permanently for ninzio.com/craft/?p=897
+09:37:51	Warning: 	File has moved from ninzio.com/craft/?p=897 to http://ninzio.com/craft/officers-fired-after-removal-of-united-airlines-passenger-5/
+09:38:23	Warning: 	Moved Permanently for ninzio.com/craft/?p=1622
+09:38:23	Warning: 	File has moved from ninzio.com/craft/?p=1622 to http://ninzio.com/craft/product/awesome-green-tshirt/
+09:38:40	Warning: 	Moved Permanently for ninzio.com/craft/?p=216
+09:38:40	Warning: 	File has moved from ninzio.com/craft/?p=216 to http://ninzio.com/craft/elements/buttons/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=224
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=224 to http://ninzio.com/craft/elements/counter/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=226
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=226 to http://ninzio.com/craft/elements/lists/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=228
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=228 to http://ninzio.com/craft/elements/lines-and-divider/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=222
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=222 to http://ninzio.com/craft/elements/icons/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=232
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=232 to http://ninzio.com/craft/elements/iconbox/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=234
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=234 to http://ninzio.com/craft/elements/accordions/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=236
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=236 to http://ninzio.com/craft/elements/progress-bar/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=240
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=240 to http://ninzio.com/craft/elements/testimonials/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=1035
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=1035 to http://ninzio.com/craft/elements/tabs/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=244
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=244 to http://ninzio.com/craft/elements/imagebox/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=829
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=829 to http://ninzio.com/craft/elements/blog-posts/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=246
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=246 to http://ninzio.com/craft/elements/partner-post/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=248
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=248 to http://ninzio.com/craft/elements/member-post/
+09:38:56	Warning: 	Moved Permanently for ninzio.com/craft/?p=1007
+09:38:56	Warning: 	File has moved from ninzio.com/craft/?p=1007 to http://ninzio.com/craft/elements/project-post/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=256
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=256 to http://ninzio.com/craft/elements/pricing-table/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=238
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=238 to http://ninzio.com/craft/elements/actionbox/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1045
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1045 to http://ninzio.com/craft/elements/google-map/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1098
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1098 to http://ninzio.com/craft/elements/subscribe-form/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1114
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1114 to http://ninzio.com/craft/elements/count-down/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1905
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1905 to http://ninzio.com/craft/project/creative-design/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1904
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1904 to http://ninzio.com/craft/project/stylish-notebook/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1902
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1902 to http://ninzio.com/craft/project/happy-teenager/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1901
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1901 to http://ninzio.com/craft/project/fantastic-workspace/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1900
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1900 to http://ninzio.com/craft/project/modern-photo/
+09:39:02	Warning: 	Moved Permanently for ninzio.com/craft/?p=1899
+09:39:02	Warning: 	File has moved from ninzio.com/craft/?p=1899 to http://ninzio.com/craft/project/morning-wake-up/
+09:39:04	Warning: 	Moved Permanently for ninzio.com/craft/?p=895
+09:39:04	Warning: 	File has moved from ninzio.com/craft/?p=895 to http://ninzio.com/craft/true-color-monitors-all-one-personal-books-workplace-4/
+09:39:05	Warning: 	Moved Permanently for ninzio.com/craft/?p=1623
+09:39:05	Warning: 	File has moved from ninzio.com/craft/?p=1623 to http://ninzio.com/craft/product/brand-new-black-jeans/
+09:39:16	Warning: 	Moved Permanently for ninzio.com/craft/?p=1621
+09:39:16	Warning: 	File has moved from ninzio.com/craft/?p=1621 to http://ninzio.com/craft/product/woman-modern-blouse/
+09:39:24	Warning: 	Moved Permanently for ninzio.com/craft/?p=1419
+09:39:24	Warning: 	File has moved from ninzio.com/craft/?p=1419 to http://ninzio.com/craft/product/brand-new-black-jeans-3/
+09:39:31	Warning: 	Moved Permanently for ninzio.com/craft/?p=890
+09:39:31	Warning: 	File has moved from ninzio.com/craft/?p=890 to http://ninzio.com/craft/music-playing-featured-technologies-for-child-and-adults-4/
+09:39:34	Warning: 	Found for ninzio.com/craft/cart/?remove_item=c7af0926b294e47e52e46cfebe173f20&_wpnonce=a29d88e0f9
+09:39:34	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=c7af0926b294e47e52e46cfebe173f20&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/home-6/?removed_item=1
+09:39:34	Warning: 	Moved Permanently for ninzio.com/craft/?p=1898
+09:39:34	Warning: 	File has moved from ninzio.com/craft/?p=1898 to http://ninzio.com/craft/project/website-creation-2/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/?p=1897
+09:39:35	Warning: 	File has moved from ninzio.com/craft/?p=1897 to http://ninzio.com/craft/project/fantastic-design/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/?p=1896
+09:39:35	Warning: 	File has moved from ninzio.com/craft/?p=1896 to http://ninzio.com/craft/project/wonderful-night/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/?p=1895
+09:39:35	Warning: 	File has moved from ninzio.com/craft/?p=1895 to http://ninzio.com/craft/project/mountain-woman-2/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/portfolio-standard/page/1/
+09:39:35	Warning: 	File has moved from ninzio.com/craft/portfolio-standard/page/1/ to http://ninzio.com/craft/portfolio-standard/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/portfolio-simple/page/1/
+09:39:35	Warning: 	File has moved from ninzio.com/craft/portfolio-simple/page/1/ to http://ninzio.com/craft/portfolio-simple/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/portfolio-grid/page/1/
+09:39:35	Warning: 	File has moved from ninzio.com/craft/portfolio-grid/page/1/ to http://ninzio.com/craft/portfolio-grid/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/?p=1894
+09:39:35	Warning: 	File has moved from ninzio.com/craft/?p=1894 to http://ninzio.com/craft/project/modern-woman/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/?p=1876
+09:39:35	Warning: 	File has moved from ninzio.com/craft/?p=1876 to http://ninzio.com/craft/project/website-creation-3/
+09:39:35	Warning: 	Moved Permanently for ninzio.com/craft/?p=887
+09:39:35	Warning: 	File has moved from ninzio.com/craft/?p=887 to http://ninzio.com/craft/true-color-monitors-all-one-personal-books-workplace-3/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=879
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=879 to http://ninzio.com/craft/music-playing-featured-technologies-for-child-and-adults-3/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=874
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=874 to http://ninzio.com/craft/officers-fired-after-removal-of-united-airlines-passenger-3/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=864
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=864 to http://ninzio.com/craft/music-playing-featured-technologies-for-child-and-adults-2/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=862
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=862 to http://ninzio.com/craft/officers-fired-after-removal-of-united-airlines-passenger/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=859
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=859 to http://ninzio.com/craft/true-color-monitors-all-one-personal-books-workplace-2/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=852
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=852 to http://ninzio.com/craft/music-playing-featured-technologies-for-child-and-adults/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/blog/page/1/
+09:39:36	Warning: 	File has moved from ninzio.com/craft/blog/page/1/ to http://ninzio.com/craft/blog/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/blog-grid/page/1/
+09:39:36	Warning: 	File has moved from ninzio.com/craft/blog-grid/page/1/ to http://ninzio.com/craft/blog-grid/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/blog-list/page/1/
+09:39:36	Warning: 	File has moved from ninzio.com/craft/blog-list/page/1/ to http://ninzio.com/craft/blog-list/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=849
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=849 to http://ninzio.com/craft/true-color-monitors-all-one-personal-books-workplace/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=835
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=835 to http://ninzio.com/craft/officers-fired-after-removal-of-united-airlines-passenger-2/
+09:39:36	Warning: 	Moved Permanently for ninzio.com/craft/?p=1617
+09:39:36	Warning: 	File has moved from ninzio.com/craft/?p=1617 to http://ninzio.com/craft/product/brand-new-black-jeans-2/
+09:39:41	Warning: 	Found for ninzio.com/craft/cart/?remove_item=297fa7777981f402dbba17e9f29e292d&_wpnonce=a29d88e0f9
+09:39:41	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=297fa7777981f402dbba17e9f29e292d&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/shop/?removed_item=1
+09:39:42	Warning: 	Found for ninzio.com/craft/cart/?remove_item=fc528592c3858f90196fbfacc814f235&_wpnonce=a29d88e0f9
+09:39:42	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=fc528592c3858f90196fbfacc814f235&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/shop/?removed_item=1
+09:39:42	Warning: 	Found for ninzio.com/craft/cart/?remove_item=30c8e1ca872524fbf7ea5c519ca397ee&_wpnonce=a29d88e0f9
+09:39:42	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=30c8e1ca872524fbf7ea5c519ca397ee&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/shop/?removed_item=1
+09:39:42	Warning: 	Moved Permanently for ninzio.com/craft/?p=1443
+09:39:42	Warning: 	File has moved from ninzio.com/craft/?p=1443 to http://ninzio.com/craft/product/brand-new-blouse/
+09:39:45	Warning: 	Found for ninzio.com/craft/cart/?remove_item=8fb5f8be2aa9d6c64a04e3ab9f63feee&_wpnonce=a29d88e0f9
+09:39:45	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=8fb5f8be2aa9d6c64a04e3ab9f63feee&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/shop/?removed_item=1
+09:39:46	Warning: 	Moved Permanently for ninzio.com/craft/?p=1615
+09:39:46	Warning: 	File has moved from ninzio.com/craft/?p=1615 to http://ninzio.com/craft/product/classic-wear-polo/
+09:39:55	Warning: 	Found for ninzio.com/craft/cart/?remove_item=71a58e8cb75904f24cde464161c3e766&_wpnonce=a29d88e0f9
+09:39:55	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=71a58e8cb75904f24cde464161c3e766&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/shop/?removed_item=1
+09:39:58	Warning: 	Moved Permanently for ninzio.com/craft/shop/page/1/
+09:39:58	Warning: 	File has moved from ninzio.com/craft/shop/page/1/ to http://ninzio.com/craft/shop/
+09:40:02	Warning: 	Found for ninzio.com/craft/cart/?remove_item=4462bf0ddbe0d0da40e1e828ebebeb11&_wpnonce=a29d88e0f9
+09:40:02	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=4462bf0ddbe0d0da40e1e828ebebeb11&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/awesome-green-tshirt/?removed_item=1
+09:40:03	Warning: 	Moved Permanently for ninzio.com/craft/?p=1620
+09:40:03	Warning: 	File has moved from ninzio.com/craft/?p=1620 to http://ninzio.com/craft/product/elegant-men-shirt/
+09:40:08	Warning: 	Found for ninzio.com/craft/cart/?remove_item=806beafe154032a5b818e97b4420ad98&_wpnonce=a29d88e0f9
+09:40:08	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=806beafe154032a5b818e97b4420ad98&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/awesome-green-tshirt/?removed_item=1
+09:40:08	Warning: 	Moved Permanently for ninzio.com/craft/?p=1614
+09:40:08	Warning: 	File has moved from ninzio.com/craft/?p=1614 to http://ninzio.com/craft/product/simple-wear-polo/
+09:40:12	Warning: 	Found for ninzio.com/craft/cart/?remove_item=e9fd7c2c6623306db59b6aef5c0d5cac&_wpnonce=a29d88e0f9
+09:40:12	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=e9fd7c2c6623306db59b6aef5c0d5cac&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/awesome-green-tshirt/?removed_item=1
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/?p=218
+09:40:13	Warning: 	File has moved from ninzio.com/craft/?p=218 to http://ninzio.com/craft/elements/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/elements/project-post/page/1/
+09:40:13	Warning: 	File has moved from ninzio.com/craft/elements/project-post/page/1/ to http://ninzio.com/craft/elements/project-post/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/?p=1877
+09:40:13	Warning: 	File has moved from ninzio.com/craft/?p=1877 to http://ninzio.com/craft/project/awesome-workspace/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/?p=1858
+09:40:13	Warning: 	File has moved from ninzio.com/craft/?p=1858 to http://ninzio.com/craft/project/creative-workspace/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/tag/design/page/1/
+09:40:13	Warning: 	File has moved from ninzio.com/craft/tag/design/page/1/ to http://ninzio.com/craft/tag/design/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/tag/development/page/1/
+09:40:13	Warning: 	File has moved from ninzio.com/craft/tag/development/page/1/ to http://ninzio.com/craft/tag/development/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/tag/entertanment/page/1/
+09:40:13	Warning: 	File has moved from ninzio.com/craft/tag/entertanment/page/1/ to http://ninzio.com/craft/tag/entertanment/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/tag/fashion/page/1/
+09:40:13	Warning: 	File has moved from ninzio.com/craft/tag/fashion/page/1/ to http://ninzio.com/craft/tag/fashion/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/tag/logo/page/1/
+09:40:13	Warning: 	File has moved from ninzio.com/craft/tag/logo/page/1/ to http://ninzio.com/craft/tag/logo/
+09:40:13	Warning: 	Moved Permanently for ninzio.com/craft/tag/money/page/1/
+09:40:13	Warning: 	File has moved from ninzio.com/craft/tag/money/page/1/ to http://ninzio.com/craft/tag/money/
+09:40:15	Warning: 	Moved Permanently for ninzio.com/craft/?p=1616
+09:40:15	Warning: 	File has moved from ninzio.com/craft/?p=1616 to http://ninzio.com/craft/product/fantastic-women-shirt/
+09:40:17	Warning: 	Found for ninzio.com/craft/cart/?remove_item=962e56a8a0b0420d87272a682bfd1e53&_wpnonce=a29d88e0f9
+09:40:17	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=962e56a8a0b0420d87272a682bfd1e53&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/brand-new-black-jeans/?removed_item=1
+09:40:20	Warning: 	Moved Permanently for ninzio.com/craft/?p=1619
+09:40:20	Warning: 	File has moved from ninzio.com/craft/?p=1619 to http://ninzio.com/craft/product/white-classic-blouse/
+09:40:22	Warning: 	Found for ninzio.com/craft/cart/?remove_item=d1dc3a8270a6f9394f88847d7f0050cf&_wpnonce=a29d88e0f9
+09:40:22	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=d1dc3a8270a6f9394f88847d7f0050cf&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/brand-new-black-jeans-3/?removed_item=1
+09:40:22	Warning: 	Moved Permanently for ninzio.com/craft/?p=1417
+09:40:22	Warning: 	File has moved from ninzio.com/craft/?p=1417 to http://ninzio.com/craft/checkout/
+09:40:27	Warning: 	Found for ninzio.com/craft/cart/?undo_item=c7af0926b294e47e52e46cfebe173f20&_wpnonce=a29d88e0f9
+09:40:27	Warning: 	File has moved from ninzio.com/craft/cart/?undo_item=c7af0926b294e47e52e46cfebe173f20&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/cart/?remove_item=4462bf0ddbe0d0da40e1e828ebebeb11
+09:40:29	Warning: 	Moved Permanently for ninzio.com/craft/author/admin/page/1/
+09:40:29	Warning: 	File has moved from ninzio.com/craft/author/admin/page/1/ to http://ninzio.com/craft/author/admin/
+09:40:32	Warning: 	Found for ninzio.com/craft/cart/?undo_item=297fa7777981f402dbba17e9f29e292d&_wpnonce=a29d88e0f9
+09:40:32	Warning: 	File has moved from ninzio.com/craft/cart/?undo_item=297fa7777981f402dbba17e9f29e292d&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/brand-new-blouse/?add-to-cart=1615
+09:40:33	Warning: 	Found for ninzio.com/craft/cart/?undo_item=30c8e1ca872524fbf7ea5c519ca397ee&_wpnonce=a29d88e0f9
+09:40:33	Warning: 	File has moved from ninzio.com/craft/cart/?undo_item=30c8e1ca872524fbf7ea5c519ca397ee&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/brand-new-blouse/?add-to-cart=1615
+09:40:33	Warning: 	Found for ninzio.com/craft/cart/?undo_item=8fb5f8be2aa9d6c64a04e3ab9f63feee&_wpnonce=a29d88e0f9
+09:40:33	Warning: 	File has moved from ninzio.com/craft/cart/?undo_item=8fb5f8be2aa9d6c64a04e3ab9f63feee&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/classic-wear-polo/?add-to-cart=1616
+09:40:33	Warning: 	Moved Permanently for ninzio.com/craft/?p=1618
+09:40:33	Warning: 	File has moved from ninzio.com/craft/?p=1618 to http://ninzio.com/craft/product/sport-creative-wear/
+09:40:35	Warning: 	Found for ninzio.com/craft/cart/?remove_item=f60bb6bb4c96d4df93c51bd69dcc15a0&_wpnonce=a29d88e0f9
+09:40:35	Warning: 	File has moved from ninzio.com/craft/cart/?remove_item=f60bb6bb4c96d4df93c51bd69dcc15a0&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/classic-wear-polo/?removed_item=1
+09:40:37	Warning: 	Found for ninzio.com/craft/cart/?undo_item=71a58e8cb75904f24cde464161c3e766&_wpnonce=a29d88e0f9
+09:40:37	Warning: 	File has moved from ninzio.com/craft/cart/?undo_item=71a58e8cb75904f24cde464161c3e766&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/shop/page/2/?add-to-cart=1620
+09:40:37	Warning: 	Moved Permanently for ninzio.com/craft/product-category/woman-shoes/page/1/
+09:40:37	Warning: 	File has moved from ninzio.com/craft/product-category/woman-shoes/page/1/ to http://ninzio.com/craft/product-category/woman-shoes/
+09:40:37	Warning: 	Found for ninzio.com/craft/cart/?undo_item=4462bf0ddbe0d0da40e1e828ebebeb11&_wpnonce=a29d88e0f9
+09:40:37	Warning: 	File has moved from ninzio.com/craft/cart/?undo_item=4462bf0ddbe0d0da40e1e828ebebeb11&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/awesome-green-tshirt/?add-to-cart=1619
+09:40:41	Warning: 	Moved Permanently for ninzio.com/craft/product-category/men-shirts/page/1/
+09:40:41	Warning: 	File has moved from ninzio.com/craft/product-category/men-shirts/page/1/ to http://ninzio.com/craft/product-category/men-shirts/
+09:40:42	Warning: 	Found for ninzio.com/craft/cart/?undo_item=962e56a8a0b0420d87272a682bfd1e53&_wpnonce=a29d88e0f9
+09:40:42	Warning: 	File has moved from ninzio.com/craft/cart/?undo_item=962e56a8a0b0420d87272a682bfd1e53&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/product/brand-new-black-jeans/?add-to-cart=1619
+09:40:50	Warning: 	Moved Permanently for ninzio.com/craft/?p=1418
+09:40:50	Warning: 	File has moved from ninzio.com/craft/?p=1418 to http://ninzio.com/craft/my-account/
+09:40:50	Warning: 	Found for ninzio.com/craft/cart/?undo_item=d1dc3a8270a6f9394f88847d7f0050cf&_wpnonce=a29d88e0f9
+09:40:50	Warning: 	File has moved from ninzio.com/craft/cart/?undo_item=d1dc3a8270a6f9394f88847d7f0050cf&_wpnonce=a29d88e0f9 to http://ninzio.com/craft/my-account/lost-password/
+09:41:07	Warning: 	Moved Permanently for ninzio.com/craft/shop/page/1/?removed_item=1
+09:41:07	Warning: 	File has moved from ninzio.com/craft/shop/page/1/?removed_item=1 to http://ninzio.com/craft/shop/?removed_item=1
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 35 seconds : 1046 links scanned, 918 files written (42672239 bytes overall) [18011601 bytes received at 19263 bytes/sec], 31199998 bytes transferred using HTTP compression in 580 files, ratio 18%, 5.5 requests per connection
+(4 errors, 249 warnings, 0 messages)

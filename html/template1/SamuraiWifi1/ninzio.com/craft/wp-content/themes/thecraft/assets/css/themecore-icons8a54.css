@@ -1,0 +1,350 @@
+@font-face {
+  font-family: 'craft';
+  src:  url('../font/craft4b84.eot?ejf562');
+  src:  url('../font/craft4b84.eot?ejf562#iefix') format('embedded-opentype'),
+    url('../font/craft4b84.ttf?ejf562') format('truetype'),
+    url('../font/craft4b84.woff?ejf562') format('woff'),
+    url('../font/craft4b84.svg?ejf562#craft') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="craft-"], [class*=" craft-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'craft' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.craft-instagram:before {
+  content: "\e91c";
+}
+.craft-linkedin:before {
+  content: "\e91e";
+}
+.craft-googleplus:before {
+  content: "\e921";
+}
+.craft-pencil:before {
+  content: "\e900";
+}
+.craft-lock:before {
+  content: "\e901";
+}
+.craft-unlock:before {
+  content: "\e902";
+}
+.craft-menu:before {
+  content: "\e903";
+}
+.craft-play-button:before {
+  content: "\e904";
+}
+.craft-plane:before {
+  content: "\e905";
+}
+.craft-close-button1:before {
+  content: "\e906";
+}
+.craft-close-button2:before {
+  content: "\e907";
+}
+.craft-tick2:before {
+  content: "\e908";
+}
+.craft-certificate:before {
+  content: "\e909";
+}
+.craft-planet:before {
+  content: "\e90a";
+}
+.craft-expand:before {
+  content: "\e90b";
+}
+.craft-level:before {
+  content: "\e90c";
+}
+.craft-email:before {
+  content: "\e90d";
+}
+.craft-diamond:before {
+  content: "\e90e";
+}
+.craft-arrow-bottom:before {
+  content: "\e90f";
+}
+.craft-arrow-top:before {
+  content: "\e910";
+}
+.craft-arrow-left:before {
+  content: "\e911";
+}
+.craft-arrow-right:before {
+  content: "\e912";
+}
+.craft-call-answer:before {
+  content: "\e913";
+}
+.craft-shop5:before {
+  content: "\e914";
+}
+.craft-plus1:before {
+  content: "\e915";
+}
+.craft-flickr:before {
+  content: "\e916";
+}
+.craft-dribbble:before {
+  content: "\e917";
+}
+.craft-behance:before {
+  content: "\e918";
+}
+.craft-android:before {
+  content: "\e919";
+}
+.craft-apple:before {
+  content: "\e91a";
+}
+.craft-plus2:before {
+  content: "\e91b";
+}
+.craft-tick3:before {
+  content: "\e91d";
+}
+.craft-pinterest:before {
+  content: "\e91f";
+}
+.craft-facebook:before {
+  content: "\e920";
+}
+.craft-vimeo:before {
+  content: "\e922";
+}
+.craft-youtube:before {
+  content: "\e923";
+}
+.craft-github:before {
+  content: "\e924";
+}
+.craft-twitter:before {
+  content: "\e925";
+}
+.craft-paypal:before {
+  content: "\e926";
+}
+.craft-black-envelope:before {
+  content: "\e927";
+}
+.craft-soundcloud:before {
+  content: "\e928";
+}
+.craft-share:before {
+  content: "\e929";
+}
+.craft-spotify:before {
+  content: "\e92a";
+}
+.craft-map:before {
+  content: "\e92b";
+}
+.craft-tumblr:before {
+  content: "\e92c";
+}
+.craft-pen:before {
+  content: "\e92d";
+}
+.craft-image:before {
+  content: "\e92e";
+}
+.craft-dollar:before {
+  content: "\e92f";
+}
+.craft-calendar:before {
+  content: "\e930";
+}
+.craft-bookmark:before {
+  content: "\e931";
+}
+.craft-arrow-left2:before {
+  content: "\e932";
+}
+.craft-arrow-right2:before {
+  content: "\e933";
+}
+.craft-arrow-left3:before {
+  content: "\e934";
+}
+.craft-vk:before {
+  content: "\e935";
+}
+.craft-chat2:before {
+  content: "\e936";
+}
+.craft-users:before {
+  content: "\e937";
+}
+.craft-arrow-right4:before {
+  content: "\e938";
+}
+.craft-arrow-left4:before {
+  content: "\e939";
+}
+.craft-question:before {
+  content: "\e93a";
+}
+.craft-star:before {
+  content: "\e93b";
+}
+.craft-arrow-left5:before {
+  content: "\e93c";
+}
+.craft-arrow-right5:before {
+  content: "\e93d";
+}
+.craft-next-track:before {
+  content: "\e93e";
+}
+.craft-previous:before {
+  content: "\e93f";
+}
+.craft-pause-button:before {
+  content: "\e940";
+}
+.craft-star-half-empty:before {
+  content: "\e941";
+}
+.craft-star-empty:before {
+  content: "\e942";
+}
+.craft-whatsapp:before {
+  content: "\e943";
+}
+.craft-calendar2:before {
+  content: "\e944";
+}
+.craft-heart-outline:before {
+  content: "\e945";
+}
+.craft-clock:before {
+  content: "\e946";
+}
+.craft-asside:before {
+  content: "\e947";
+}
+.craft-image-gallery:before {
+  content: "\e948";
+}
+.craft-photo:before {
+  content: "\e949";
+}
+.craft-link:before {
+  content: "\e94a";
+}
+.craft-audio:before {
+  content: "\e94b";
+}
+.craft-info:before {
+  content: "\e94c";
+}
+.craft-status:before {
+  content: "\e94d";
+}
+.craft-play:before {
+  content: "\e94e";
+}
+.craft-eye:before {
+  content: "\e94f";
+}
+.craft-viber:before {
+  content: "\e950";
+}
+.craft-play-arrow:before {
+  content: "\e951";
+}
+.craft-heart-full:before {
+  content: "\e952";
+}
+.craft-magnifier1:before {
+  content: "\e953";
+}
+.craft-dropbox:before {
+  content: "\e954";
+}
+.craft-pin:before {
+  content: "\e955";
+}
+.craft-magnifier2:before {
+  content: "\e956";
+}
+.craft-magnifier3:before {
+  content: "\e957";
+}
+.craft-envato:before {
+  content: "\e958";
+}
+.craft-quote:before {
+  content: "\e959";
+}
+.craft-telephone:before {
+  content: "\e95a";
+}
+.craft-shop1:before {
+  content: "\e95b";
+}
+.craft-user1:before {
+  content: "\e95c";
+}
+.craft-user2:before {
+  content: "\e95d";
+}
+.craft-speech-bubble:before {
+  content: "\e95e";
+}
+.craft-shop2:before {
+  content: "\e95f";
+}
+.craft-snapchat:before {
+  content: "\e960";
+}
+.craft-plus3:before {
+  content: "\e961";
+}
+.craft-minus:before {
+  content: "\e962";
+}
+.craft-tick1:before {
+  content: "\e963";
+}
+.craft-quora:before {
+  content: "\e964";
+}
+.craft-delicious:before {
+  content: "\e965";
+}
+.craft-digg:before {
+  content: "\e966";
+}
+.craft-rss:before {
+  content: "\e967";
+}
+.craft-menu-button:before {
+  content: "\e968";
+}
+.craft-shop3:before {
+  content: "\e969";
+}
+.craft-shop4:before {
+  content: "\e96a";
+}
+.craft-external-link:before {
+  content: "\e96d";
+}

@@ -1,0 +1,117 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 11 Mar 2018 22:48:46 at http://motors.stylemixthemes.com/boats/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://motors.stylemixthemes.com/boats/ -O1 "F:\xampp\htdocs\samuraiwifi\html\template5\SamuraiWifi5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:50:25	Error: 	"Method Not Allowed" (405) at link motors.stylemixthemes.com/boats/xmlrpc.php (from motors.stylemixthemes.com/boats/)
+22:53:28	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/blog/?&view-type=list&show-title-box=hide&show-breadcrumbs=yes
+22:53:28	Warning: 	File has moved from motors.stylemixthemes.com/boats/blog/?&view-type=list&show-title-box=hide&show-breadcrumbs=yes to http://motors.stylemixthemes.com/boats/blog/?view-type=list&show-title-box=hide&show-breadcrumbs=yes
+22:57:24	Error: 	"Not Found" (404) at link motors.stylemixthemes.com/boats/404-error-page (from motors.stylemixthemes.com/boats/)
+22:58:56	Error: 	"Bad Request" (400) at link motors.stylemixthemes.com/boats/wp-admin/admin-ajax.php (from motors.stylemixthemes.com/boats/)
+22:58:56	Error: 	"Not Found" (404) at link motors.stylemixthemes.com/boats/wp-content/plugins/stm_vehicles_listing/assets/css/frontend/owl.video.play.png (from motors.stylemixthemes.com/boats/wp-content/cache/autoptimize/4/css/autoptimize_dde5c1c23c87726fc0b5e406bb1e1dc0.css)
+22:58:56	Error: 	"Not Found" (404) at link motors.stylemixthemes.com/boats/wp-content/themes/motors/assets/fonts/glyphicons-halflings-regular.eot (from motors.stylemixthemes.com/boats/wp-content/cache/autoptimize/4/css/autoptimize_dde5c1c23c87726fc0b5e406bb1e1dc0.css)
+22:58:57	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=24
+22:58:57	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=24 to http://motors.stylemixthemes.com/boats/my-account/
+22:58:57	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=22
+22:58:57	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=22 to http://motors.stylemixthemes.com/boats/cart/
+22:58:57	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=156
+22:58:58	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=156 to http://motors.stylemixthemes.com/boats/compare/
+22:58:58	Error: 	"Not Found" (404) at link motors.stylemixthemes.com/boats/wp-content/themes/pearl-child/assets/images/compare-empty.jpg (from motors.stylemixthemes.com/boats/compare/)
+22:58:58	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=639
+22:58:58	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=639 to http://motors.stylemixthemes.com/boats/inventory/
+22:59:24	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2001
+22:59:24	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2001 to http://motors.stylemixthemes.com/boats/listings/2015-glastron-gt180br/
+22:59:24	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1414
+22:59:24	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1414 to http://motors.stylemixthemes.com/boats/sell-a-boat/
+23:00:24	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=644
+23:00:24	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=644 to http://motors.stylemixthemes.com/boats/teslas-autopilot-system-is-awesome-and-creepy-and-a-sign-of-a-beautiful-future/
+23:00:28	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=674
+23:00:28	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=674 to http://motors.stylemixthemes.com/boats/motors-rock/
+23:00:28	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=694
+23:00:28	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=694 to http://motors.stylemixthemes.com/boats/motors-rocks/
+23:00:28	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=546
+23:00:28	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=546 to http://motors.stylemixthemes.com/boats/service/
+23:00:28	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=370
+23:00:28	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=370 to http://motors.stylemixthemes.com/boats/about-us/
+23:00:28	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=932
+23:00:28	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=932 to http://motors.stylemixthemes.com/boats/auto-loan-calculator/
+23:02:59	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=300
+23:02:59	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=300 to http://motors.stylemixthemes.com/boats/typography/
+23:02:59	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=777
+23:02:59	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=777 to http://motors.stylemixthemes.com/boats/coming-soon/
+23:03:02	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=712
+23:03:02	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=712 to http://motors.stylemixthemes.com/boats/contact-us/
+23:03:03	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2080
+23:03:03	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2080 to http://motors.stylemixthemes.com/boats/listings/alison-premium/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2079
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2079 to http://motors.stylemixthemes.com/boats/listings/alison-pk/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2078
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2078 to http://motors.stylemixthemes.com/boats/listings/baycraft-md/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2077
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2077 to http://motors.stylemixthemes.com/boats/listings/baycraft-po/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1386
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1386 to http://motors.stylemixthemes.com/boats/tap-yourself/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1073
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1073 to http://motors.stylemixthemes.com/boats/how-the-new-mercedes-benz-sls-amg-on-the-track/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1074
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1074 to http://motors.stylemixthemes.com/boats/we-believe-the-cars-we-offer-are-the-highest-quality/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2076
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2076 to http://motors.stylemixthemes.com/boats/listings/bayliner-lp/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2031
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2031 to http://motors.stylemixthemes.com/boats/listings/bayliner/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2030
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2030 to http://motors.stylemixthemes.com/boats/listings/baycraft-mx/
+23:03:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2029
+23:03:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2029 to http://motors.stylemixthemes.com/boats/listings/2003-alison/
+23:03:16	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1067
+23:03:16	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1067 to http://motors.stylemixthemes.com/boats/all-colors-trims-are-always-in-stock/
+23:03:16	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1066
+23:03:16	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1066 to http://motors.stylemixthemes.com/boats/we-strive-to-deliver-a-superior-experience-with-motors-rock/
+23:03:16	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1065
+23:03:16	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1065 to http://motors.stylemixthemes.com/boats/tap-yourself-on-the-back-for-being-a-savvy-car-shopper/
+23:03:16	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1064
+23:03:16	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1064 to http://motors.stylemixthemes.com/boats/nissan-vehicles-are-distributed-throughout-the-united-states/
+23:03:16	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1044
+23:03:16	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1044 to http://motors.stylemixthemes.com/boats/how-the-tesla-model-xs-falcon-doors-handle-a-tight-parking-space/
+23:03:16	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=787
+23:03:16	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=787 to http://motors.stylemixthemes.com/boats/tesla-says-reliability-problems-cut-in-half-after-consumer-reports-snub/
+23:03:35	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1042
+23:03:35	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1042 to http://motors.stylemixthemes.com/boats/shop/parts/air-filter/
+23:03:45	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=102
+23:03:45	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=102 to http://motors.stylemixthemes.com/boats/shop/parts/woo-logo/
+23:03:54	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1035
+23:03:54	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1035 to http://motors.stylemixthemes.com/boats/shop/exterior/car-brush/
+23:03:59	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=103
+23:03:59	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=103 to http://motors.stylemixthemes.com/boats/shop/interior/premium-quality/
+23:04:07	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1039
+23:04:07	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1039 to http://motors.stylemixthemes.com/boats/shop/exterior/car-wheel-r18/
+23:04:07	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=104
+23:04:07	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=104 to http://motors.stylemixthemes.com/boats/shop/parts/ship-your-idea/
+23:04:11	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1036
+23:04:11	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1036 to http://motors.stylemixthemes.com/boats/shop/wheels/ninja-rims-r20/
+23:04:21	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=105
+23:04:21	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=105 to http://motors.stylemixthemes.com/boats/shop/interior/ninja-silhouette/
+23:04:27	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1038
+23:04:27	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1038 to http://motors.stylemixthemes.com/boats/shop/parts/oil-filter/
+23:04:31	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1034
+23:04:31	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1034 to http://motors.stylemixthemes.com/boats/shop/wheels/pirelli-tires-r20/
+23:04:39	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1037
+23:04:39	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1037 to http://motors.stylemixthemes.com/boats/shop/exterior/singles/custom-spark-plug/
+23:04:45	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=106
+23:04:45	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=106 to http://motors.stylemixthemes.com/boats/shop/interior/woo-ninja/
+23:04:48	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=107
+23:04:48	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=107 to http://motors.stylemixthemes.com/boats/shop/interior/happy-ninja/
+23:04:53	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=2094
+23:04:53	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=2094 to http://motors.stylemixthemes.com/boats/listings/glastron-st/
+23:04:53	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=748
+23:04:53	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=748 to http://motors.stylemixthemes.com/boats/post-format-video/
+23:04:55	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1040
+23:04:55	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1040 to http://motors.stylemixthemes.com/boats/shop/interior/sound/syntetic-oil-5w-40/
+23:04:58	Warning: 	Moved Permanently for motors.stylemixthemes.com/boats/?p=1041
+23:04:58	Warning: 	File has moved from motors.stylemixthemes.com/boats/?p=1041 to http://motors.stylemixthemes.com/boats/shop/parts/synthetic-oil-filter/
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 0 seconds : 822 links scanned, 765 files written (61014742 bytes overall) [23820536 bytes received at 23353 bytes/sec], 47967847 bytes transferred using HTTP compression in 489 files, ratio 20%, 6.6 requests per connection
+(6 errors, 100 warnings, 0 messages)

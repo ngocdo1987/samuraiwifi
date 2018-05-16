@@ -1,0 +1,301 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 11 Mar 2018 16:28:30 at http://addison.bold-themes.com/main-demo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://addison.bold-themes.com/main-demo/ -O1 "F:\xampp\htdocs\samuraiwifi\html\template4\SamuraiWifi4" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:28:36	Warning: 	Note: due to addison.bold-themes.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:41:45	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/about-us/contact/ (from addison.bold-themes.com/main-demo/)
+16:41:47	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/404 (from addison.bold-themes.com/main-demo/)
+16:41:50	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/portfolio-grid-three-columns/ (from addison.bold-themes.com/main-demo/)
+16:41:50	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/portfolio-grid-three-columns/portfolio-grid-four-columns/ (from addison.bold-themes.com/main-demo/)
+16:41:56	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/portfolio-grid-three-columns/portfolio-tiles-three-columns/ (from addison.bold-themes.com/main-demo/)
+16:44:01	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/blog/ (from addison.bold-themes.com/main-demo/)
+16:44:01	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/blog/?blog_side_info=false (from addison.bold-themes.com/main-demo/)
+16:44:01	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/blog/?blog_list_view=columns&blog_side_info=false (from addison.bold-themes.com/main-demo/)
+16:44:01	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/blog/?blog_list_view=columns&blog_side_info=false&bt_sidebar=false (from addison.bold-themes.com/main-demo/)
+16:44:01	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/blog/?blog_list_view=simple&blog_side_info=false (from addison.bold-themes.com/main-demo/)
+16:44:01	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/blog/?blog_list_view=simple (from addison.bold-themes.com/main-demo/)
+16:44:10	Error: 	"Not Found" (404) at link addison.bold-themes.com/main-demo/blog/blog-tiles-four-columns/ (from addison.bold-themes.com/main-demo/)
+16:49:02	Warning: 	Moved Temporarily for addison.bold-themes.com/main-demo/shop/checkout/
+16:49:02	Warning: 	File has moved from addison.bold-themes.com/main-demo/shop/checkout/ to http://addison.bold-themes.com/main-demo/shop/cart/
+16:51:44	Error: 	"Bad Request" (400) at link addison.bold-themes.com/main-demo/wp-admin/admin-ajax.php (from addison.bold-themes.com/main-demo/)
+16:51:44	Warning: 	File not parsed, looks like binary: addison.bold-themes.com/main-demo/wp-content/plugins/bold-page-builder/fonts/fontawesome-webfont.woff2?v=4.6.3
+16:51:45	Warning: 	File not parsed, looks like binary: addison.bold-themes.com/main-demo/wp-content/themes/addison/fonts/weathericons-regular-webfont.woff2
+16:51:45	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2018
+16:51:45	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2018 to http://addison.bold-themes.com/main-demo/landing/archi-bureau/
+16:51:45	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2016
+16:51:45	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2016 to http://addison.bold-themes.com/main-demo/landing/minimalistic/
+16:51:45	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/about-me/
+16:51:45	Warning: 	File has moved from addison.bold-themes.com/main-demo/about-me/ to http://addison.bold-themes.com/main-demo/about-us/about-me/
+16:51:45	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/wp-content/uploads/sites/3/2017/05/map-pin-2.png (from addison.bold-themes.com/main-demo/landing/minimalistic/)
+16:51:46	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2020
+16:51:46	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2020 to http://addison.bold-themes.com/main-demo/landing/wooden-cottages/
+16:51:56	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3286
+16:51:56	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3286 to http://addison.bold-themes.com/main-demo/landing/portfolio-oriented/
+16:51:56	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1928
+16:51:56	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1928 to http://addison.bold-themes.com/main-demo/about-us/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2029
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2029 to http://addison.bold-themes.com/main-demo/about-us/about-me/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2030
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2030 to http://addison.bold-themes.com/main-demo/about-us/history/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2031
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2031 to http://addison.bold-themes.com/main-demo/about-us/services/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2032
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2032 to http://addison.bold-themes.com/main-demo/about-us/process/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2033
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2033 to http://addison.bold-themes.com/main-demo/about-us/clients/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2038
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2038 to http://addison.bold-themes.com/main-demo/about-us/careers/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2039
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2039 to http://addison.bold-themes.com/main-demo/about-us/faq/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2042
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2042 to http://addison.bold-themes.com/main-demo/about-us/pricing/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2730
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2730 to http://addison.bold-themes.com/main-demo/about-us/cost-calculator/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1461
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1461 to http://addison.bold-themes.com/main-demo/about-us/location/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2045
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2045 to http://addison.bold-themes.com/main-demo/about-us/under-construction/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=928
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=928 to http://addison.bold-themes.com/main-demo/portfolio-grid-three-columns/portfolio-grid-five-columns/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=932
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=932 to http://addison.bold-themes.com/main-demo/portfolio-grid-three-columns/portfolio-grid-six-columns/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=936
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=936 to http://addison.bold-themes.com/main-demo/portfolio-grid-three-columns/portfolio-tiles-four-columns/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=934
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=934 to http://addison.bold-themes.com/main-demo/portfolio-grid-three-columns/portfolio-tiles-five-columns/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=940
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=940 to http://addison.bold-themes.com/main-demo/portfolio-grid-three-columns/portfolio-tiles-six-columns/
+16:51:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=154
+16:51:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=154 to http://addison.bold-themes.com/main-demo/portfolio/modern-home-redesign/
+16:52:30	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=151
+16:52:30	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=151 to http://addison.bold-themes.com/main-demo/portfolio/bedroom-furniture-design/
+16:52:37	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1907
+16:52:37	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1907 to http://addison.bold-themes.com/main-demo/portfolio/newest-project-for-ikea/
+16:52:52	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=152
+16:52:52	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=152 to http://addison.bold-themes.com/main-demo/portfolio/bathroom-design-ideas/
+16:53:08	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=96
+16:53:08	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=96 to http://addison.bold-themes.com/main-demo/portfolio/an-it-office-rethinked/
+16:53:48	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2908
+16:53:48	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2908 to http://addison.bold-themes.com/main-demo/portfolio/minimal-kitchen-project/
+16:54:12	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2910
+16:54:12	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2910 to http://addison.bold-themes.com/main-demo/portfolio/clean-and-minimal-living-area/
+16:54:44	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2922
+16:54:44	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2922 to http://addison.bold-themes.com/main-demo/portfolio/wood-in-the-bedroom/
+16:57:23	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2921
+16:57:23	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2921 to http://addison.bold-themes.com/main-demo/portfolio/cottage-home-living-project/
+16:57:24	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=995
+16:57:24	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=995 to http://addison.bold-themes.com/main-demo/blog/blog-grid-four-columns/
+16:57:24	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=999
+16:57:24	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=999 to http://addison.bold-themes.com/main-demo/blog/blog-grid-three-columns/
+16:57:24	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=993
+16:57:24	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=993 to http://addison.bold-themes.com/main-demo/blog/blog-grid-five-columns/
+16:57:24	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=997
+16:57:24	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=997 to http://addison.bold-themes.com/main-demo/blog/blog-grid-six-columns/
+16:57:24	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1007
+16:57:24	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1007 to http://addison.bold-themes.com/main-demo/blog/blog-tiles-three-columns/
+16:57:24	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1001
+16:57:24	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1001 to http://addison.bold-themes.com/main-demo/blog/blog-tiles-five-columns/
+16:57:24	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1005
+16:57:24	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1005 to http://addison.bold-themes.com/main-demo/blog/blog-tiles-six-columns/
+16:57:24	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=243
+16:57:24	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=243 to http://addison.bold-themes.com/main-demo/2017/04/08/a-new-contract-signed/
+16:57:43	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2407
+16:57:43	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2407 to http://addison.bold-themes.com/main-demo/2017/05/15/furniture-design-basics/
+16:57:43	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=232
+16:57:43	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=232 to http://addison.bold-themes.com/main-demo/2017/04/26/white-serenity-home/
+16:57:49	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=230
+16:57:49	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=230 to http://addison.bold-themes.com/main-demo/2017/04/14/nature-materials-are-in/
+16:57:51	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=287
+16:57:51	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=287 to http://addison.bold-themes.com/main-demo/2017/04/01/interior-with-stephen-grudier/
+16:57:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=234
+16:57:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=234 to http://addison.bold-themes.com/main-demo/2017/03/22/modern-house-remodel/
+16:57:58	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=291
+16:57:58	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=291 to http://addison.bold-themes.com/main-demo/2017/03/27/our-newest-project-launched/
+16:58:00	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=289
+16:58:00	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=289 to http://addison.bold-themes.com/main-demo/2017/04/01/design-is-in-the-details/
+17:00:20	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1074
+17:00:20	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1074 to http://addison.bold-themes.com/main-demo/shop/products-two-columns/
+17:01:22	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1094
+17:01:22	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1094 to http://addison.bold-themes.com/main-demo/shop/products-four-columns/
+17:01:26	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1097
+17:01:26	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1097 to http://addison.bold-themes.com/main-demo/shop/products-five-columns/
+17:01:29	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1101
+17:01:29	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1101 to http://addison.bold-themes.com/main-demo/shop/products-six-columns/
+17:01:32	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=557
+17:01:32	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=557 to http://addison.bold-themes.com/main-demo/product/wooden-white-chair/
+17:02:25	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=533
+17:02:25	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=533 to http://addison.bold-themes.com/main-demo/product/wooden-sofa/
+17:02:37	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=565
+17:02:37	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=565 to http://addison.bold-themes.com/main-demo/product/modern-floor-lamp/
+17:02:46	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1925
+17:02:46	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1925 to http://addison.bold-themes.com/main-demo/shop/cart/
+17:02:46	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1927
+17:02:46	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1927 to http://addison.bold-themes.com/main-demo/shop/my-account/
+17:02:50	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2401
+17:02:50	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2401 to http://addison.bold-themes.com/main-demo/2017/05/17/newest-project-for-ikea/
+17:02:50	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2411
+17:02:50	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2411 to http://addison.bold-themes.com/main-demo/2017/05/13/your-office-bookshelf/
+17:02:53	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2433
+17:02:53	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2433 to http://addison.bold-themes.com/main-demo/2017/05/01/a-wooden-cottage-kitchen/
+17:02:53	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2447
+17:02:53	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2447 to http://addison.bold-themes.com/main-demo/2017/04/29/wooden-attic-redesign/
+17:02:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2450
+17:02:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2450 to http://addison.bold-themes.com/main-demo/2017/04/26/modern-kitchen-in-a-cottage/
+17:02:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2894
+17:02:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2894 to http://addison.bold-themes.com/main-demo/portfolio-grid-three-columns/portfolio-archi/
+17:03:00	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=98
+17:03:00	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=98 to http://addison.bold-themes.com/main-demo/portfolio/proper-worker-space/
+17:03:00	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=1906
+17:03:00	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=1906 to http://addison.bold-themes.com/main-demo/portfolio/new-furniture-presented/
+17:03:00	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=153
+17:03:00	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=153 to http://addison.bold-themes.com/main-demo/portfolio/bedroom-serenity-redefined/
+17:03:00	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2907
+17:03:00	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2907 to http://addison.bold-themes.com/main-demo/portfolio/living-room-design/
+17:03:01	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=97
+17:03:01	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=97 to http://addison.bold-themes.com/main-demo/portfolio/office-redesign/
+17:03:01	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/wp-content/uploads/sites/3/2015/09/project-archi-07.jpg (from addison.bold-themes.com/main-demo/portfolio_category/commercial/)
+17:03:16	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2909
+17:03:16	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2909 to http://addison.bold-themes.com/main-demo/portfolio/black-white-kitchen/
+17:03:19	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2911
+17:03:19	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2911 to http://addison.bold-themes.com/main-demo/portfolio/minimal-interior-design-project/
+17:03:19	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2889
+17:03:19	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2889 to http://addison.bold-themes.com/main-demo/portfolio/office-space-for-haas-f1/
+17:03:22	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2923
+17:03:22	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2923 to http://addison.bold-themes.com/main-demo/portfolio/wooden-kitchen-solution/
+17:03:33	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2920
+17:03:33	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2920 to http://addison.bold-themes.com/main-demo/portfolio/living-room-fireplace/
+17:03:33	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2422
+17:03:33	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2422 to http://addison.bold-themes.com/main-demo/2017/05/10/newest-office-project/
+17:03:33	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2428
+17:03:33	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2428 to http://addison.bold-themes.com/main-demo/2017/05/08/corridor-design/
+17:03:33	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=266
+17:03:33	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=266 to http://addison.bold-themes.com/main-demo/2017/02/08/a-big-announcement/
+17:03:34	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=534
+17:03:34	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=534 to http://addison.bold-themes.com/main-demo/product/rounded-wooden-table/
+17:03:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=536
+17:03:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=536 to http://addison.bold-themes.com/main-demo/product/wooden-white-table/
+17:04:12	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=564
+17:04:12	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=564 to http://addison.bold-themes.com/main-demo/product/decorative-led-lamp/
+17:04:20	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=558
+17:04:20	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=558 to http://addison.bold-themes.com/main-demo/product/wooden-armchair/
+17:04:39	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=566
+17:04:39	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=566 to http://addison.bold-themes.com/main-demo/product/home-floor-lamp/
+17:04:42	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=567
+17:04:42	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=567 to http://addison.bold-themes.com/main-demo/product/decorative-office-chair/
+17:04:46	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/shop/page/1/
+17:04:46	Warning: 	File has moved from addison.bold-themes.com/main-demo/shop/page/1/ to http://addison.bold-themes.com/main-demo/shop/
+17:04:46	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=524
+17:04:46	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=524 to http://addison.bold-themes.com/main-demo/product/blue-leather-office-chair/
+17:04:52	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=531
+17:04:52	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=531 to http://addison.bold-themes.com/main-demo/product/office-chair/
+17:04:56	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=562
+17:04:56	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=562 to http://addison.bold-themes.com/main-demo/product/glass-blue-vase/
+17:05:03	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=563
+17:05:03	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=563 to http://addison.bold-themes.com/main-demo/product/white-decorative-vase/
+17:05:08	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=525
+17:05:08	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=525 to http://addison.bold-themes.com/main-demo/product/black-vase/
+17:05:11	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=559
+17:05:11	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=559 to http://addison.bold-themes.com/main-demo/product/armchair-and-footrest/
+17:05:14	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=522
+17:05:14	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=522 to http://addison.bold-themes.com/main-demo/product/articstic-black-vase/
+17:05:19	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=526
+17:05:19	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=526 to http://addison.bold-themes.com/main-demo/product/crosshatch-home-chair/
+17:05:21	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=561
+17:05:21	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=561 to http://addison.bold-themes.com/main-demo/product/large-floor-lamp/
+17:05:26	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=535
+17:05:26	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=535 to http://addison.bold-themes.com/main-demo/product/leather-comfy-chair/
+17:05:29	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=523
+17:05:29	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=523 to http://addison.bold-themes.com/main-demo/product/modern-white-chair/
+17:05:35	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=527
+17:05:35	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=527 to http://addison.bold-themes.com/main-demo/product/office-chair-2/
+17:05:40	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=537
+17:05:40	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=537 to http://addison.bold-themes.com/main-demo/product/waiting-room-chair/
+17:05:44	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=532
+17:05:44	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=532 to http://addison.bold-themes.com/main-demo/product/white-leather-office-chair/
+17:05:47	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=560
+17:05:47	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=560 to http://addison.bold-themes.com/main-demo/product/yellow-comfy-chair/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2430
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2430 to http://addison.bold-themes.com/main-demo/2017/05/02/designing-a-manager-office/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=156
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=156 to http://addison.bold-themes.com/main-demo/portfolio/bank-waiting-space/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=155
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=155 to http://addison.bold-themes.com/main-demo/portfolio/white-home-redesign/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2890
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2890 to http://addison.bold-themes.com/main-demo/portfolio/industrial-kitchen-space/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=87
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=87 to http://addison.bold-themes.com/main-demo/portfolio/project-for-manager-office/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2892
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2892 to http://addison.bold-themes.com/main-demo/portfolio/meeting-space-project/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2893
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2893 to http://addison.bold-themes.com/main-demo/portfolio/whats-in-a-workplace/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2912
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2912 to http://addison.bold-themes.com/main-demo/portfolio/waiting-room-project/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2924
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2924 to http://addison.bold-themes.com/main-demo/portfolio/wooden-serenity-for-sleep/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2919
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2919 to http://addison.bold-themes.com/main-demo/portfolio/brick-and-wood-perfection/
+17:07:07	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2925
+17:07:07	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2925 to http://addison.bold-themes.com/main-demo/portfolio/furniture-in-the-cottages/
+17:07:13	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=2926
+17:07:13	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=2926 to http://addison.bold-themes.com/main-demo/portfolio/perfect-wooden-kitchen/
+17:07:27	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/product-category/furniture/page/1/
+17:07:27	Warning: 	File has moved from addison.bold-themes.com/main-demo/product-category/furniture/page/1/ to http://addison.bold-themes.com/main-demo/product-category/furniture/
+17:07:27	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/product-category/home/page/1/
+17:07:27	Warning: 	File has moved from addison.bold-themes.com/main-demo/product-category/home/page/1/ to http://addison.bold-themes.com/main-demo/product-category/home/
+17:07:28	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/product-category/office/page/1/
+17:07:28	Warning: 	File has moved from addison.bold-themes.com/main-demo/product-category/office/page/1/ to http://addison.bold-themes.com/main-demo/product-category/office/
+17:07:28	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/wooden-white-table/?add-to-cart=523 (from addison.bold-themes.com/main-demo/product/wooden-white-table/?add-to-cart=527)
+17:07:28	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/wooden-white-table/?add-to-cart=533 (from addison.bold-themes.com/main-demo/product/wooden-white-table/?add-to-cart=559)
+17:07:28	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/wooden-white-table/?add-to-cart=558 (from addison.bold-themes.com/main-demo/product/wooden-white-table/?add-to-cart=531)
+17:07:28	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/wooden-white-table/?add-to-cart=535 (from addison.bold-themes.com/main-demo/product/wooden-white-table/?add-to-cart=534)
+17:07:53	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/product-category/chairs/page/1/
+17:07:53	Warning: 	File has moved from addison.bold-themes.com/main-demo/product-category/chairs/page/1/ to http://addison.bold-themes.com/main-demo/product-category/chairs/
+17:10:29	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/product-tag/chairs/page/1/
+17:10:29	Warning: 	File has moved from addison.bold-themes.com/main-demo/product-tag/chairs/page/1/ to http://addison.bold-themes.com/main-demo/product-tag/chairs/
+17:10:30	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/product-tag/furniture/page/1/
+17:10:30	Warning: 	File has moved from addison.bold-themes.com/main-demo/product-tag/furniture/page/1/ to http://addison.bold-themes.com/main-demo/product-tag/furniture/
+17:10:30	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/product-tag/home/page/1/
+17:10:30	Warning: 	File has moved from addison.bold-themes.com/main-demo/product-tag/home/page/1/ to http://addison.bold-themes.com/main-demo/product-tag/home/
+17:10:31	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/product-tag/office/page/1/
+17:10:31	Warning: 	File has moved from addison.bold-themes.com/main-demo/product-tag/office/page/1/ to http://addison.bold-themes.com/main-demo/product-tag/office/
+17:11:11	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3416
+17:11:11	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3416 to http://addison.bold-themes.com/main-demo/portfolio/wooden-white-table/
+17:15:08	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3415
+17:15:08	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3415 to http://addison.bold-themes.com/main-demo/portfolio/family-home-redesign/
+17:15:41	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/wooden-armchair/?replytocom=54&add-to-cart=535 (from addison.bold-themes.com/main-demo/product/wooden-armchair/?replytocom=54&add-to-cart=560)
+17:15:41	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/wooden-armchair/?replytocom=55&add-to-cart=523 (from addison.bold-themes.com/main-demo/product/wooden-armchair/?replytocom=55&add-to-cart=561)
+17:15:41	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/wooden-armchair/?replytocom=55&add-to-cart=564 (from addison.bold-themes.com/main-demo/product/wooden-armchair/?replytocom=55&add-to-cart=561)
+17:15:41	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/wooden-armchair/?replytocom=55&add-to-cart=566 (from addison.bold-themes.com/main-demo/product/wooden-armchair/?replytocom=55&add-to-cart=537)
+17:16:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3412
+17:16:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3412 to http://addison.bold-themes.com/main-demo/portfolio/thinking-space/
+17:16:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3308
+17:16:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3308 to http://addison.bold-themes.com/main-demo/portfolio/plants-and-wood/
+17:16:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3409
+17:16:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3409 to http://addison.bold-themes.com/main-demo/portfolio/simple-wooden-furniture/
+17:16:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3315
+17:16:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3315 to http://addison.bold-themes.com/main-demo/portfolio/wood-and-cloth-chair/
+17:16:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3314
+17:16:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3314 to http://addison.bold-themes.com/main-demo/portfolio/kids-learning-room/
+17:16:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3414
+17:16:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3414 to http://addison.bold-themes.com/main-demo/portfolio/modern-wooden-furniture/
+17:16:55	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3413
+17:16:55	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3413 to http://addison.bold-themes.com/main-demo/portfolio/office-resting-room/
+17:16:57	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3411
+17:16:57	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3411 to http://addison.bold-themes.com/main-demo/portfolio/new-furniture-line/
+17:17:42	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3309
+17:17:42	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3309 to http://addison.bold-themes.com/main-demo/portfolio/pvc-and-wood-combo/
+17:17:42	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3410
+17:17:42	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3410 to http://addison.bold-themes.com/main-demo/portfolio/fireplace-project/
+17:17:42	Warning: 	Moved Permanently for addison.bold-themes.com/main-demo/?p=3408
+17:17:42	Warning: 	File has moved from addison.bold-themes.com/main-demo/?p=3408 to http://addison.bold-themes.com/main-demo/portfolio/living-room-design-2/
+17:17:54	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/large-floor-lamp/?replytocom=30&add-to-cart=525 (from addison.bold-themes.com/main-demo/product/large-floor-lamp/?replytocom=30&add-to-cart=534)
+17:17:55	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/leather-comfy-chair/?replytocom=24&add-to-cart=566 (from addison.bold-themes.com/main-demo/product/leather-comfy-chair/?replytocom=24&add-to-cart=527)
+17:17:56	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/leather-comfy-chair/?replytocom=24&add-to-cart=536 (from addison.bold-themes.com/main-demo/product/leather-comfy-chair/?replytocom=24&add-to-cart=559)
+17:17:57	Warning: 	Retry after error -4 (No data (connection closed)) at link addison.bold-themes.com/main-demo/product/modern-white-chair/?replytocom=15&add-to-cart=535 (from addison.bold-themes.com/main-demo/product/modern-white-chair/?replytocom=15&add-to-cart=536)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 minutes 31 seconds : 2651 links scanned, 2493 files written (273723422 bytes overall) [75104319 bytes received at 25279 bytes/sec], 231770250 bytes transferred using HTTP compression in 1597 files, ratio 12%, 13.8 requests per connection
+(13 errors, 277 warnings, 0 messages)

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+addison.bold-themes.com	TRUE	/	FALSE	1999999999	wpSGCacheBypass	0
+addison.bold-themes.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+addison.bold-themes.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	d13c82706c36072aca52e4a48a42b2a6
+addison.bold-themes.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_4abfd6addd7167f2e7d8d6662250d684	184343cedf648e2b55ded11af4f073a8%7C%7C1520934414%7C%7C1520930814%7C%7C5fb8535467c0591dc5461b8b5dcf1d75
+

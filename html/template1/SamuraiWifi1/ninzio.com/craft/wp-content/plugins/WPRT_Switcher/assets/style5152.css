@@ -1,0 +1,64 @@
+/* Switcher
+-------------------------------------------------------------- */
+.switcher-container .styleswitch#color1 { background-color: #1a7dd7; }
+.switcher-container .styleswitch#color2 { background-color: #7ec12f; }
+.switcher-container .styleswitch#color3 { background-color: #d63519; }
+.switcher-container .styleswitch#color4 { background-color: #29c0c7; }
+.switcher-container .styleswitch#color5 { background-color: #6a48a9; }
+.switcher-container .styleswitch#color6 { background-color: #e1a511; }
+.switcher-container .styleswitch#color7 { background-color: #d81a7a; }
+.switcher-container .styleswitch#color8 { background-color: #a77f4b; }
+
+.switcher-container .styleswitch.current { position: relative; }
+.switcher-container .styleswitch.current:after { content: ""; position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: url(check.png) no-repeat center center; }
+.switcher-container .styleswitch { width: 49px; height: 45px; display: inline-block; cursor: pointer; margin: 0 8px 8px 0; float: left; }
+
+.switcher-container { width: 290px; position: fixed; left: -290px; top: 250px; z-index: 9999; padding: 35px 30px; box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.14); background-color: #fff; }
+.switcher-container .setting a { position: relative; background-color: #fff; position: absolute; top: 28px; right: -53px; width: 53px; height: 55px; line-height: 55px; display: inline-block; box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.14); }
+.switcher-container .setting a:after { content: ""; position: absolute; left: 0; top: 0; width: 100%; height: 100%; background: url(setting.png) no-repeat center center; -webkit-animation: rotating 3s linear infinite; animation: rotating 3s linear infinite; }
+.switcher-container .setting a:before { content: ""; position: absolute; left: -20px; top: 0; width: 20px; height: 70px; background: #fff; }
+
+.switcher-container .selector-box h2 a { display: block; background-color: #333; color: #fff; font-size: 13px; text-transform: uppercase; text-align: center; padding: 12px 0; }
+.switcher-container .selector-box h2 a:hover { opacity: 0.7; }
+.switcher-container .selector-box h3 { font-size: 14px; text-align: center; border-top: 1px dotted #b2b2b2; padding-top: 16px; margin-top: 28px; margin-bottom: 17px; }
+.switcher-container .note-text { margin: 26px 0 0; padding-top: 20px; border-top: 1px dotted #b2b2b2; text-align: center; }
+.switcher-container .note-text > p { margin: 0 0 5px; font-size: 13px; line-height: 24px; }
+
+@-webkit-keyframes rotating {
+	from {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	to {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+	}
+	@keyframes rotating {
+	from {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	to {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+}
+
+@media 
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (   -moz-min-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx){
+	.switcher-container .styleswitch.current:after {
+		background: url(check%402x.png) no-repeat center center;
+		background-size: 16px 13px;
+	}
+	.switcher-container .setting a:after {
+		background: url(setting%402x.png) no-repeat center center;
+		background-size: 29px 29px;
+	}
+}

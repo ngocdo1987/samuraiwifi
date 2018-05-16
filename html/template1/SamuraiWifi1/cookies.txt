@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ninzio.com	TRUE	/craft/	FALSE	1999999999	woocommerce_items_in_cart	1
+ninzio.com	TRUE	/craft/	FALSE	1999999999	woocommerce_cart_hash	b3bdfddd030a54afb0f4a81ecb6f502b
+ninzio.com	TRUE	/craft/	FALSE	1999999999	wp_woocommerce_session_470d289772cadc50f088eb0378db2e8f	2e1e3f8c40c02b277f060253b3e5e84f%7C%7C1520908293%7C%7C1520904693%7C%7C3c1c5468d734f75ec948c72bd118efaf
+
